@@ -1,0 +1,52 @@
+{
+    "name": "Giovanna T Moura",
+    "photo": "https://avatars.githubusercontent.com/u/86860134?v=4",
+    "job": "Junior Developer",
+    "location": "São Paulo - SP",
+    "phone": "(11) 93093-9382",
+    "email": "giovannatrigoni@outlook.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/gyovnnz/Portfolio/main/data/imgs/js.png"
+        },
+        {
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/gyovnnz/Portfolio/main/data/imgs/python.png"
+        },
+        {
+          "name": "HTML5",
+          "logo": "https://raw.githubusercontent.com/gyovnnz/Portfolio/main/data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/gyovnnz/Portfolio/main/data/imgs/css.png"
+        }
+        
+      ],
+      "softSkills": [
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Proatividade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português (nativo)",
+      "Inglês (intermediário)",
+      "Italiano (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "github": true
+      },
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "github": true
+      }
+    ]
+  }
