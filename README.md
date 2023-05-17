@@ -23,8 +23,8 @@ Projeto de Portfólio criado no curso JavaScript Developer (DIO) em HTML, CSS e 
   - /fonts
     - neue-machina-regular.otf
   - /img
-   - /icons
-    -/tools  
+    - /icons
+      -/tools  
   - /js
     - acordeon.js
     - api.js
