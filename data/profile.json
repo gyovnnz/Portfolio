@@ -1,7 +1,7 @@
 {
     "name": "Giovanna T Moura",
     "photo": "https://avatars.githubusercontent.com/u/86860134?v=4",
-    "job": "Junior Developer",
+    "job": "Developer",
     "location": "São Paulo - SP",
     "phone": "(11) 93093-9382",
     "email": "giovannatrigoni@outlook.com",
@@ -39,8 +39,13 @@
     ],
     "portfolio": [
       {
-        "name": "Criando uma Pokedex",
-        "url": "https://github.com/gyovnnz/JS-Developer-Pokedex",
+        "name": "Criando uma Pokédex",
+        "url": "https://gyovnnz.github.io/pokedex",
+        "github": true
+      },
+      {
+        "name": "Criando uma Cápsula do tempo",
+        "url": "https://gyovnnz.github.io/nlw-spacetime",
         "github": true
       }
     ]
