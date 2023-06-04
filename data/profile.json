@@ -47,6 +47,11 @@
         "name": "Criando uma Cápsula do tempo",
         "url": "https://gyovnnz.github.io/nlw-spacetime",
         "github": true
+      },
+      {
+        "name": "Criando uma Tela de Login",
+        "url": "https://gyovnnz.github.io/login",
+        "github": true
       }
     ]
   }
